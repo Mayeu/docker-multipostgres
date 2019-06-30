@@ -1,3 +1,5 @@
+# This project is archived, please take a look at [mayeu/docker-postgres-dev](https://github.com/Mayeu/docker-postgres-dev) instead.
+
 # Multi Postgres
 
 [![](https://badgen.net/badge//mayeu%2Fmultipostgres/blue?icon=docker)](https://hub.docker.com/r/mayeu/multipostgres)
